@@ -41,9 +41,6 @@ const Layout = async ({ children }: { children : React.ReactNode }) => {
                     <Image src="/assets/images/dashboard.png" alt="Dashboard Preview" width={1440} height={1150} className="auth-dashboard-preview absolute top-0" />
                 </div>
             </section>
-
-
-
         </main>
     )
 }
